@@ -1,5 +1,6 @@
 # LPC_PIA
 || Dentro de este repositorio se podran encontrar 5 scripts (1 de BASH, 1 de PS y 3 de PYTHON) que fueron 
+
 || practicados durante el tercer semestre de la materia "LABORATORIO de PROGRAMACION para CIBERSEGURIDAD (LCP)".
 ||  
 || Script de la tarea no. 2: El script funcona primero como un menú donde tienes diferentes opciones, todas
